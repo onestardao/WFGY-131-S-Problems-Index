@@ -20,33 +20,6 @@ If you want the full BlackHole folder (all problem files in one place), go here:
 
 ---
 
-## What are the 131 S-class problems?
-
-Each S-class problem is a single problem page encoded at the **effective layer**
-of the Tension Universe framework.
-
-- These pages are **not solutions or proofs**.
-- They do **not** claim to resolve the underlying canonical problems.
-- They are **structured problem specifications**, written to test whether a single
-  tension-based encoding language can remain consistent across many hard domains.
-
-The intent is stress testing, auditability, and cross-domain consistency,
-not result chasing or post-hoc tuning.
-
----
-
-## How this index should be used
-
-- If you arrived here from a benchmark, discussion thread, or profile link,
-  this page is the fastest way to understand **what kinds of problems are included**.
-- Click any entry below to open the corresponding S problem page.
-- If you want context, methodology, or how these pages are meant to be read,
-  go back to **[WFGY 3.0 · Event Horizon](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**.
-
-Everything below is a **text-only link index** by design.
-
----
-
 ## Navigation index · 131 S-Class Problems
 
 ---
@@ -209,3 +182,18 @@ Everything below is a **text-only link index** by design.
 - [Q129 · Ultimate Energy Efficiency](../BlackHole/Q129_ultimate_energy_efficiency.md)
 - [Q130 · OOD Grounding and Common Sense](../BlackHole/Q130_ood_grounding_and_common_sense.md)
 - [Q131 · Tension Free Energy](../BlackHole/Q131_tension_free_energy.md)
+
+---
+  
+## What are the 131 S-class problems?
+
+Each S-class problem is a single problem page encoded at the **effective layer**
+of the Tension Universe framework.
+
+- These pages are **not solutions or proofs**.
+- They do **not** claim to resolve the underlying canonical problems.
+- They are **structured problem specifications**, written to test whether a single
+  tension-based encoding language can remain consistent across many hard domains.
+
+The intent is stress testing, auditability, and cross-domain consistency,
+not result chasing or post-hoc tuning.
