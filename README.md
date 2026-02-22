@@ -1,20 +1,23 @@
 # WFGY · 131 S-Class Problems
 
-This repository is a **navigation index** for the 131 S-class problems used in  
-**WFGY 3.0 · Singularity Demo**.
+This repository is the public navigation index for the 131 S-class problems
+that form the structural backbone of **WFGY 3.0 · Singularity Demo**.
 
-It exists for one purpose only:  
-to let readers immediately see the full scope of problems involved, and jump
-directly to any individual S problem without searching through the main repository.
+These problems are not examples.
+They are the underlying logic map of the engine.
+
+This index exists for one purpose:
+to let you immediately see the full scope,
+and jump directly to any individual S-class problem
+without navigating through the main repository.
 
 This is **not** the main WFGY project repository.
 
-If you are looking for the official WFGY 3.0 overview, design notes, quickstart,
-and scope definitions, start here:
+If you want the official WFGY 3.0 overview, quickstart, and design notes, start here:
 
 → **[WFGY 3.0 · Event Horizon (official entry point)](https://github.com/onestardao/WFGY/blob/main/TensionUniverse/EventHorizon/README.md)**
 
-If you want the full BlackHole folder (all problem files in one place), go here:
+If you want the complete problem archive in one place:
 
 → **[BlackHole · 131 S problem collection](https://github.com/onestardao/WFGY/tree/main/TensionUniverse/BlackHole)**
 
